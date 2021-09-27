@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SegundaEntrega</string>
+    <string name="BtnsegundaActividad">Ir a la siguiente página</string>
+    <string name="Selc">Seleccione una opción </string>
+    <string name="obtener">Obtener seleccion</string>
+</resources>
